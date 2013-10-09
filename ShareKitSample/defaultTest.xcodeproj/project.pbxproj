@@ -1087,8 +1087,8 @@
 				CLANG_ENABLE_OBJC_ARC = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/renansilva/Dropbox/ShareKitSample/,
-					/Users/renansilva/Dropbox/ShareKitSample/Submodules/ShareKit/Frameworks,
+					/Users/renansilva/Dropbox/sampleSharingIOS/ShareKitSample/,
+					/Users/renansilva/Dropbox/sampleSharingIOS/ShareKitSample/Submodules/ShareKit/Frameworks,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "defaultTest/defaultTest-Prefix.pch";
@@ -1113,8 +1113,8 @@
 				CLANG_ENABLE_OBJC_ARC = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/renansilva/Dropbox/ShareKitSample/,
-					/Users/renansilva/Dropbox/ShareKitSample/Submodules/ShareKit/Frameworks,
+					/Users/renansilva/Dropbox/sampleSharingIOS/ShareKitSample/,
+					/Users/renansilva/Dropbox/sampleSharingIOS/ShareKitSample/Submodules/ShareKit/Frameworks,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "defaultTest/defaultTest-Prefix.pch";
